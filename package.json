@@ -1,0 +1,23 @@
+{
+  "name": "desertView",
+  "version": "1.0.0",
+  "description": "Understanding the html canvas drawing api.",
+  "main": "server.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estebanpadilla/desertView.git"
+  },
+  "keywords": [],
+  "author": "Esteban Padilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estebanpadilla/desertView/issues"
+  },
+  "homepage": "https://github.com/estebanpadilla/desertView#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
