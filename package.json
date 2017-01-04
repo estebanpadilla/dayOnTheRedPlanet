@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/estebanpadilla/desertView.git"
+    "url": "git+https://github.com/estebanpadilla/dayOnTheRedPlanet.git"
   },
   "keywords": [],
   "author": "Esteban Padilla",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/estebanpadilla/desertView/issues"
+    "url": "https://github.com/estebanpadilla/dayOnTheRedPlanet/issues"
   },
-  "homepage": "https://github.com/estebanpadilla/desertView#readme",
+  "homepage": "https://github.com/estebanpadilla/dayOnTheRedPlanet#readme",
   "devDependencies": {
     "lite-server": "^2.2.2"
   }
